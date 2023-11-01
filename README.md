@@ -1,5 +1,9 @@
 # pywks-disneyplus
 
+> **Warning**
+>
+> I'm only uploading this for educational.
+
 An easier-to-use script for Disney+, unlike the manual 'main_dsnp.py.' 
 
 The commands are straightforward. For example:
